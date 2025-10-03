@@ -1,0 +1,5 @@
+def OLS(xi, N):
+    return np.array(vector, dtype=float)
+
+def MLE(xi, N):
+    return np.array(vector, dtype=float)

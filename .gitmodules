@@ -1,0 +1,3 @@
+[submodule "befor/tuushin/AICS"]
+	path = befor/tuushin/AICS
+	url = git@github.com:ishikawa33/AICS.git
